@@ -1,0 +1,79 @@
+dt {
+    font-weight: 900 /* rtl:600 */;
+    font-family: Helvetica ;
+  }
+  .fosize
+  {
+    font-family: Helvetica ;
+font-size: 58px;
+font-weight: bolder;
+margin-top: 150px;
+margin-left: 0;
+padding-left: 0;
+  }
+  .josize
+  {
+    font-family: Helvetica ;
+    font-size: 28px;
+font-weight:bold;
+margin-top: 50px;
+margin-left: 0;
+padding-left: 0;
+  }
+  .efont
+  {
+    font-size:small;
+    font-family: Helvetica ;
+  }
+  .badge
+  {
+    width: 300px;
+    font-size:13px;
+    font-weight:500;
+    border: 0.3px solid gainsboro;
+    font-family: Helvetica ;
+  }
+  .round
+  {
+    border-radius: 80px;
+    padding: 3px;
+    font-family: Helvetica ;
+  }
+  .g1
+  {
+    display: flex;
+    flex-direction: column;
+    align-items:flex-center;
+    font-family: Helvetica ;
+  }
+  .app
+  {
+    font-size: 16px;
+    font-family:Arial, Helvetica, sans-serif;
+  }
+  .cre{
+    font-size: medium;
+    font-family:Helvetica, sans-serif;
+  }
+  .pa{
+    width: 300px;
+    font-size:x-small;
+    font-family:Arial, Helvetica, sans-serif;
+  }
+  .al
+  {font-family:Arial, Helvetica, sans-serif;
+    font-weight: 500;
+  }
+  .ffs
+  { color: black;
+    display: flex;
+    justify-content: space-between;
+    font-size:small;
+   text-decoration:none;
+   color: black;
+
+  }
+  .tw
+  {
+    font-size: small;
+  }
